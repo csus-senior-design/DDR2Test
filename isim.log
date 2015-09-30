@@ -1,0 +1,32 @@
+ISim log file
+Running: C:\Users\Photographer\Downloads\atlys_ddr_test-20110731 (3) - Copy\atlys_ddr_test\tb_ddr2_interface_isim_beh.exe -gui -tclbatch isim.cmd -wdb C:/Users/Photographer/Downloads/atlys_ddr_test-20110731 (3) - Copy/atlys_ddr_test/tb_ddr2_interface_isim_beh.wdb 
+ISim M.81d (signature 0x12940baa)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+WARNING: This is a limited version of the ISim. The current design has exceeded the design size limit for this version and the performance of the simulation will be derated. Please contact your nearest sales office at http://www.xilinx.com/company/contact.htm or visit the Xilinx on-line store at http://www.xilinx.com/onlinestore/design_resources.htm if interested in purchasing the full, unlimited version of this simulator.
+# run all
+Stopped at time : 1093800 ps : File "C:/Users/Photographer/Downloads/atlys_ddr_test-20110731 (3) - Copy/atlys_ddr_test/ipcore_dir/ddr2/user_design/rtl/mcb_controller/mcb_ui_top.v" Line 1061
+# run all
+Stopped at time : 1165800 ps : File "C:/Users/Photographer/Downloads/atlys_ddr_test-20110731 (3) - Copy/atlys_ddr_test/ipcore_dir/ddr2/user_design/rtl/mcb_controller/mcb_ui_top.v" Line 1061
+# run all
+Stopped at time : 1237800 ps : File "C:/Users/Photographer/Downloads/atlys_ddr_test-20110731 (3) - Copy/atlys_ddr_test/ipcore_dir/ddr2/user_design/rtl/mcb_controller/mcb_ui_top.v" Line 1061
+# run all
+Stopped at time : 2217800 ps : File "C:/Users/Photographer/Downloads/atlys_ddr_test-20110731 (3) - Copy/atlys_ddr_test/ipcore_dir/ddr2/user_design/rtl/mcb_controller/mcb_ui_top.v" Line 1061
+# run all
+Stopped at time : 2329800 ps : File "C:/Users/Photographer/Downloads/atlys_ddr_test-20110731 (3) - Copy/atlys_ddr_test/ipcore_dir/ddr2/user_design/rtl/mcb_controller/mcb_ui_top.v" Line 1061
+# restart
+# run all
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+WARNING: This is a limited version of the ISim. The current design has exceeded the design size limit for this version and the performance of the simulation will be derated. Please contact your nearest sales office at http://www.xilinx.com/company/contact.htm or visit the Xilinx on-line store at http://www.xilinx.com/onlinestore/design_resources.htm if interested in purchasing the full, unlimited version of this simulator.
+Stopped at time : 340 ns : File "C:/Users/Photographer/Downloads/atlys_ddr_test-20110731 (3) - Copy/atlys_ddr_test/tb_ddr2_interface.v" Line 248
+# run all
+Stopped at time : 1317800 ps : File "C:/Users/Photographer/Downloads/atlys_ddr_test-20110731 (3) - Copy/atlys_ddr_test/ipcore_dir/ddr2/user_design/rtl/mcb_controller/mcb_ui_top.v" Line 1061

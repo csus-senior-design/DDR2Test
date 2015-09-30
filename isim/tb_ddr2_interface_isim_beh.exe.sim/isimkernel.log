@@ -1,0 +1,30 @@
+Command line:
+   tb_ddr2_interface_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  49314
+
+Tue Sep 29 23:14:36 2015
+
+
+ Elaboration Time: 0.998406 sec
+
+ Current Memory Usage: 939.905 Meg
+
+ Total Signals          : 186702
+ Total Nets             : 66250
+ Total Signal Drivers   : 84706
+ Total Blocks           : 22958
+ Total Primitive Blocks : 19524
+ Total Processes        : 105624
+ Total Traceable Variables  : 8499
+ Total Scalar Nets and Variables : 405276
+Total Line Count : 169972
+Total Line Count : 169972
+
+ Total Simulation Time: 6.73924 sec
+
+ Current Memory Usage: 956.486 Meg
+
+Tue Sep 29 23:42:33 2015
+

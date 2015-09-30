@@ -1,0 +1,10 @@
+Command line:
+   atlys_ddr_test_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  49306
+
+Tue Sep 29 23:13:40 2015
+
+
+ Elaboration Time: 0.998406 sec

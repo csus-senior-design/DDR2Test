@@ -1,0 +1,8 @@
+Release 12.4 Drc M.81d (nt64)
+Copyright (c) 1995-2010 Xilinx, Inc.  All rights reserved.
+
+Tue Sep 29 23:01:45 2015
+
+drc -z atlys_ddr_test.ncd atlys_ddr_test.pcf
+
+DRC detected 0 errors and 0 warnings.
